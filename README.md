@@ -158,18 +158,6 @@ I'm a **Senior Data Engineer** based in **Tampa, FL** with 5+ years of experienc
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Saikrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikrishna-devp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna-devp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -183,7 +171,3 @@ I'm actively looking for **Senior Data Engineer** roles. Let's talk!
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikrishna-devp&color=29B5E8&style=flat-square" alt="Profile views"/>
-</div>
