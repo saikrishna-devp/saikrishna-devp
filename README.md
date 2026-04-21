@@ -148,6 +148,17 @@ I'm a **Senior Data Engineer** based in **Tampa, FL** with 5+ years of experienc
 
 ---
 
+### ☁️ [E-Commerce Data Lakehouse](https://github.com/saikrishna-devp/ecommerce-lakehouse)
+> End-to-end data lakehouse on AWS processing 100K real Brazilian e-commerce orders
+
+**Tech:** Python · AWS S3 · Amazon Athena · Parquet · boto3 · AWS Wrangler
+
+- 3-layer S3 architecture (Raw → Processed → Curated) with Hive-style partitioning
+- 7 datasets uploaded as Parquet files with date partitioning
+- Amazon Athena SQL queries directly on S3 data
+- Real Kaggle dataset — 96,478 delivered orders, $1.2M+ top category revenue
+- Data quality checks on all 7 datasets before processing
+
 ## Professional Experience
 
 | Company | Role | Period | Key Achievement |
